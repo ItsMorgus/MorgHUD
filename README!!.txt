@@ -2,6 +2,10 @@
   Simply copy the folder MorgHUD to your custom folder
   on "C:\Program Files (x86)\Steam\SteamApps\common\Team Fortress 2\tf\custom"
 
+-How to use the Gunplay version:
+	Go to the resource folder and change the name of clientscheme.res to clientscheme_smooth.res
+	and clientscheme_gunplay.res to clientscheme.res
+
 -How to use the custom crosshairs included (you can activate more than one):
   Open the file hudlayout.res inside the scripts folder with a text editor (e.g. Windows Notepad)
   search the on you want and change the values visible and enabled to 1, so it looks like this:
