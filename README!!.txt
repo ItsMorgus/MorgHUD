@@ -20,5 +20,7 @@
   -quartz and Sir Villeta for letting me use their awesome class icons from HUDas Iscariote.
 
   -quartz (yes, again) for his help with HUD editing.
+  
+  -Wiethoofd for being the bestest.
 
   -And last but not least, thanks to all the other HUD editors out there.
