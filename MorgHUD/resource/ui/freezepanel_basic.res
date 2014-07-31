@@ -157,7 +157,7 @@
 			"font"			"Roboto24"
 			"xpos"			"0"
 			"ypos"			"13"
-			"zpos"			"1"
+			"zpos"			"5"
 			"wide"			"188"
 			"tall"			"24"
 			"autoResize"	"0"

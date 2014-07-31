@@ -4,7 +4,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"ItemNameLabel"
-		"font"			"Roboto15Shadow"
+		"font"			"Roboto15"
 		"xpos"			"6"
 		"ypos"			"0"
 		"zpos"			"1"
@@ -19,6 +19,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
+		"fgcolor"		"0 255 0 255"
 	}
 	
 	"ItemBackground"	
@@ -34,20 +35,20 @@
 		"enabled"		"0"
 		"scaleImage"	"1"	
 		"icon"			"hud_menu_item_bg_outline"
-		"iconColor"		"ProgressOffWhiteTransparent"
+		"iconColor"		"0 0 0 255"
 	}
 	
 	"CantBuildReason"
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"CantBuildReason"
-		"font"			"Roboto13"
+		"font"			"Default"
 		"fgcolor"		"MorgHUDRed"
 		"xpos"			"10"
-		"ypos"			"33"
+		"ypos"			"42"
 		"zpos"			"2"
 		"wide"			"80"
-		"tall"			"48"
+		"tall"			"30"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -95,7 +96,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"ModeLabel"
-		"font"			"Roboto11Shadow"
+		"font"			"DefaultSmall"
 		"fgcolor"		"MorgHUDRed"
 		"xpos"			"33"
 		"ypos"			"17"
@@ -123,15 +124,15 @@
 		"enabled"		"0"
 		"scaleImage"	"1"	
 		"icon"			"ico_key_blank"
-		"iconColor"		"255 255 255 255"
+		"iconColor"		"0 255 0 255"
 	}
 	
 	"NumberLabel"
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
-		"font"			"Roboto11Shadow"
-		"fgcolor"		"TanLight"
+		"font"			"Roboto11"
+		"fgcolor"		"0 255 0 255"
 		"xpos"			"0"
 		"ypos"			"90"
 		"zpos"			"1"

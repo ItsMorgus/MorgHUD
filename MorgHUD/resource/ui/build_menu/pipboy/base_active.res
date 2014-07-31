@@ -1,10 +1,10 @@
-"Resource/UI/build_menu/base_cant_afford.res"
+"Resource/UI/build_menu/base.res"
 {
 	"ItemNameLabel"
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"ItemNameLabel"
-		"font"			"Roboto15Shadow"
+		"font"			"Roboto15"
 		"xpos"			"6"
 		"ypos"			"0"
 		"zpos"			"1"
@@ -19,9 +19,10 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
+		"fgcolor"		"0 255 0 255"
 	}
-	
-	"ItemBackground"	
+
+	"ItemBackground"
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"ItemBackground"
@@ -33,27 +34,24 @@
 		"visible"		"0"
 		"enabled"		"0"
 		"scaleImage"	"1"	
-		"icon"			"hud_menu_item_bg_outline"
-		"iconColor"		"ProgressOffWhiteTransparent"
+		"icon"			"hud_menu_item_bg"
+		"iconColor"		"0 0 0 255"
 	}
 	
-	"CantBuildReason"
-	{	
-		"ControlName"	"CExLabel"
-		"fieldName"		"CantBuildReason"
-		"font"			"Roboto13"
-		"fgcolor"		"MorgHUDRed"
-		"xpos"			"10"
+	"BuildingIcon"	
+	{
+		"ControlName"	"CIconPanel"
+		"fieldName"		"BuildingIcon"
+		"xpos"			"22"
 		"ypos"			"33"
 		"zpos"			"2"
-		"wide"			"80"
-		"tall"			"48"
-		"autoResize"	"0"
-		"pinCorner"		"0"
+		"wide"			"56"
+		"tall"			"56"
 		"visible"		"1"
 		"enabled"		"1"
-		"labelText"		"#Hud_Menu_Build_Cant_Afford"
-		"textAlignment"	"Center"
+		"scaleImage"	"1"	
+		"icon"			"hud_menu_sentry_build"
+		"iconColor"		"0 255 0 255"
 	}
 	
 	"MetalIcon"	
@@ -69,7 +67,7 @@
 		"enabled"		"1"
 		"scaleImage"	"1"	
 		"icon"			"ico_metal"
-		"iconColor"		"MorgHUDRed"
+		"iconColor"		"0 255 0 255"
 	}
 	
 	"CostLabel"
@@ -77,7 +75,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"CostLabel"
 		"font"			"Roboto11"
-		"fgcolor"		"MorgHUDRed"
+		"fgcolor"		"0 255 0 255"
 		"xpos"			"33"
 		"ypos"			"17"
 		"zpos"			"1"
@@ -88,15 +86,15 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%metal%"
-		"textAlignment"	"Left"
+		"textAlignment"	"Left"	
 	}
 	
 	"ModeLabel"
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"ModeLabel"
-		"font"			"Roboto11Shadow"
-		"fgcolor"		"MorgHUDRed"
+		"font"			"DefaultSmall"
+		"fgcolor"		"TanDarker"
 		"xpos"			"33"
 		"ypos"			"17"
 		"zpos"			"1"
@@ -123,15 +121,15 @@
 		"enabled"		"0"
 		"scaleImage"	"1"	
 		"icon"			"ico_key_blank"
-		"iconColor"		"255 255 255 255"
+		"iconColor"		"0 255 0 255"
 	}
 	
 	"NumberLabel"
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
-		"font"			"Roboto11Shadow"
-		"fgcolor"		"TanLight"
+		"font"			"Roboto11"
+		"fgcolor"		"0 255 0 255"
 		"xpos"			"0"
 		"ypos"			"90"
 		"zpos"			"1"

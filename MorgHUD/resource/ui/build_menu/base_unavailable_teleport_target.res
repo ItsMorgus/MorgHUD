@@ -1,14 +1,14 @@
-"Resource/UI/build_menu/base_cant_afford.res"
+"Resource/UI/build_menu/base_unavailable.res"
 {
 	"ItemNameLabel"
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"ItemNameLabel"
 		"font"			"Roboto15Shadow"
-		"xpos"			"6"
-		"ypos"			"0"
+		"xpos"			"22"
+		"ypos"			"12"
 		"zpos"			"1"
-		"wide"			"84"
+		"wide"			"56"
 		"tall"			"15"
 		"autoResize"	"0"
 		"pinCorner"		"0"
@@ -41,62 +41,30 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"CantBuildReason"
-		"font"			"Roboto13"
-		"fgcolor"		"MorgHUDRed"
+		"font"			"Roboto15Shadow"
 		"xpos"			"10"
-		"ypos"			"33"
+		"ypos"			"48"
 		"zpos"			"2"
 		"wide"			"80"
-		"tall"			"48"
+		"tall"			"18"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"labelText"		"#Hud_Menu_Build_Cant_Afford"
+		"labelText"		"#Hud_Menu_Build_Unavailable"
 		"textAlignment"	"Center"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		
+		"fgcolor"		"MorgHUDBlue"
 	}
-	
-	"MetalIcon"	
-	{
-		"ControlName"	"CIconPanel"
-		"fieldName"		"MetalIcon"
-		"xpos"			"22"
-		"ypos"			"18"
-		"zpos"			"1"
-		"wide"			"10"
-		"tall"			"10"
-		"visible"		"1"
-		"enabled"		"1"
-		"scaleImage"	"1"	
-		"icon"			"ico_metal"
-		"iconColor"		"MorgHUDRed"
-	}
-	
-	"CostLabel"
-	{	
-		"ControlName"	"CExLabel"
-		"fieldName"		"CostLabel"
-		"font"			"Roboto11"
-		"fgcolor"		"MorgHUDRed"
-		"xpos"			"33"
-		"ypos"			"17"
-		"zpos"			"1"
-		"wide"			"84"
-		"tall"			"13"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"labelText"		"%metal%"
-		"textAlignment"	"Left"
-	}
-	
+
 	"ModeLabel"
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"ModeLabel"
-		"font"			"Roboto11Shadow"
-		"fgcolor"		"MorgHUDRed"
+		"font"			"DefaultSmall"
+		"fgcolor"		"TanDark"
 		"xpos"			"33"
 		"ypos"			"17"
 		"zpos"			"1"
@@ -109,7 +77,7 @@
 		"labelText"		""
 		"textAlignment"	"East"	
 	}
-	
+		
 	"NumberBg"	
 	{
 		"ControlName"	"CIconPanel"
@@ -133,7 +101,7 @@
 		"font"			"Roboto11Shadow"
 		"fgcolor"		"TanLight"
 		"xpos"			"0"
-		"ypos"			"90"
+		"ypos"			"88"
 		"zpos"			"1"
 		"wide"			"100"
 		"tall"			"18"
