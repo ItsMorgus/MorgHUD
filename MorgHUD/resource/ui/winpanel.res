@@ -212,7 +212,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"AdvancingTeamLabel"
-		"font"			"Roboto16"
+		"font"			"Default"
 		"xpos"			"0"
 		"ypos"			"35"
 		"zpos"			"1"
