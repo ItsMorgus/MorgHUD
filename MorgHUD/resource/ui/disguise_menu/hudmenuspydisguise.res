@@ -16,6 +16,34 @@
 		"iconColor"		"255 255 255 255"
 	}
 	
+	"Divider"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"Divider"
+		"xpos"			"8"
+		"ypos"			"65"
+		"zpos"			"1"
+		"wide"			"456"
+		"tall"			"0"
+		"fillcolor"		"255 222 208 255"
+	}
+
+	"SpyIcon"
+	{
+		"ControlName"	"CIconPanel"
+		"fieldName"		"SpyIcon"
+		"xpos"			"10"
+		"ypos"			"-2"
+		"zpos"			"1"
+		"wide"			"45"
+		"tall"			"45"
+		"visible"		"0"
+		"enabled"		"0"
+		"scaleImage"	"1"	
+		"icon"			"hud_spy_disguise_menu_icon"
+		"iconColor"		"255 255 255 255"
+	}
+	
 	"TitleLabel"
 	{	
 		"ControlName"	"CExLabel"
