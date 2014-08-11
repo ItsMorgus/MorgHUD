@@ -23,6 +23,7 @@ Dowload: click on the Download ZIP button to your right
 	"enabled"	"1"
 
 -Thanks to:
+
   -The whole spanish community for the support, especially to Rubeen and Harze, who helped
    with testing <3
 
