@@ -5,7 +5,8 @@ HUD made from scratch by Morgus
 
 Screenshots: http://imgur.com/a/f9XiU
 
-====Dowload: click on the Download ZIP button to your right
+Dowload: click on the Download ZIP button to your right
+=======
 -How to install:
   Simply copy the folder MorgHUD to your custom folder
   on "C:\Program Files (x86)\Steam\SteamApps\common\Team Fortress 2\tf\custom"
