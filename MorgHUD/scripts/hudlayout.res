@@ -1265,7 +1265,7 @@
 		"visible" 		"1"
 		"enabled" 		"1"
 		"xpos"			"c-225"
-		"ypos"			"c11"
+		"ypos"			"c16"
 		"wide"			"450"
 		"tall"			"200"
 		"PaintBackgroundType"	"0"
