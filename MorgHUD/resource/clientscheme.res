@@ -26,13 +26,13 @@ Scheme
 		"TFOrange"			"145 73 59 255"
 		
 		"ColorMenuDefault"			"235 226 202 255"
-		"ColorMenuArmed"			"0 175 255 255"
+		"ColorMenuArmed"			"3 169 244 255"
 		
-		"MorgHUDBlue"				"0 175 255 255"
+		"MorgHUDBlue"				"3 169 244 255"
 		"MorgHUDWhite"				"235 226 202 255"
-		"MorgHUDGreen"				"0 255 0 255"
-		"MorgHUDRed"				"255 25 25 255"
-		"MorgHUDDamageNumbers"		"0 255 0 255"
+		"MorgHUDGreen"				"20 231 21 255"
+		"MorgHUDRed"				"228 38 35 255"
+		"MorgHUDDamageNumbers"		"20 231 21 255"
 		"MorgHUDBlack"				"30 30 30 255"
 		
 		"White"				"235 235 235 255"
