@@ -11,7 +11,7 @@
                 "fieldname"        "fogCrosshair"
                 
                 "visible"        "0"                        //1 to make visible
-                "enabled"        "1"
+                "enabled"        "0"
 
                 "xpos"                "c-16"                //place laterally
                 "ypos"                "c-16"                //place vertically
@@ -1134,9 +1134,9 @@
 		"fieldName"				"ArenaWinPanel"
 		"visible"				"1"
 		"enabled"				"1"
-		"xpos"					"c-225"
+		"xpos"					"c-202"
 		"ypos"					"250"
-		"wide"					"450"
+		"wide"					"404"
 		"tall"					"218"
 	}
 	"CTFKillStreakNotice"

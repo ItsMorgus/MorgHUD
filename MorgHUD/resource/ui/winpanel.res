@@ -24,7 +24,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"	
-			"fillcolor"		"0 115 255 255"
+			"fillcolor"		"MorgHUDBlue"
 			"PaintBackgroundType"	"0"
 		}
 		"RedScoreBG"
@@ -66,7 +66,7 @@
 			"ControlName"		"CExLabel"
 			"fieldName"		"BlueTeamScore"
 			"font"			"Gunplay32"
-			"fgcolor"		"0 115 255 255"
+			"fgcolor"		"MorgHUDBlue"
 			"labelText"		"%blueteamscore%"
 			"textAlignment"		"east"
 			"xpos"			"24"

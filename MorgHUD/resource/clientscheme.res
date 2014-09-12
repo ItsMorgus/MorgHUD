@@ -28,10 +28,10 @@ Scheme
 		"ColorMenuDefault"			"235 226 202 255"
 		"ColorMenuArmed"			"0 175 255 255"
 		
-		"MorgHUDBlue"				"0 175 255 255"
+		"MorgHUDBlue"				"3 169 244 255"
 		"MorgHUDWhite"				"235 226 202 255"
 		"MorgHUDGreen"				"20 231 21 255"
-		"MorgHUDRed"				"255 25 25 255"
+		"MorgHUDRed"				"229 28 35 255"
 		"MorgHUDDamageNumbers"		"20 231 21 255"
 		"MorgHUDBlack"				"30 30 30 255"
 		
