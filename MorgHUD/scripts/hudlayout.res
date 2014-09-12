@@ -1452,7 +1452,7 @@
 		"visible"				"1"
 		"enabled"				"1"
 		"xpos"					"0"
-		"ypos"					"r320"
+		"ypos"					"r280"
 		"wide"					"f0"
 		"tall"					"320"
 	}
@@ -1476,7 +1476,7 @@
 		"xpos"					"0"
 		"ypos"					"0"
 		"wide"					"f0"
-		"tall"					"50"
+		"tall"					"f0"
 	}	
 	
 	"HudAchievementTracker"
