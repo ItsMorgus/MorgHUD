@@ -31,6 +31,8 @@ Thanks
 
   -quartz (yes, again) for his help with HUD editing.
   
+  -Camus for making a awesome chat and letting me use it
+  
   -Wiethoofd for being the bestest.
 
   -And last but not least, thanks to all the other HUD editors out there.
