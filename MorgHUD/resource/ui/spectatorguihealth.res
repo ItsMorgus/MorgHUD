@@ -80,12 +80,12 @@
 		"xpos" "0"
 		"ypos" "0"
 		"zpos" "6"
-		"wide" "53"
+		"wide" "80"
 		"tall" "18"
 		"visible" "1"
 		"enabled" "1"
 		"labeltext" "%Health%"
-		"textAlignment" "east"
+		"textAlignment" "west"
 		"font" "Gunplay24Shadow"
 	}
 }

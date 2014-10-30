@@ -1,5 +1,10 @@
 "Resource/UI/HudSpellSelection.res"
 {		
+	HudSpellMenu
+	{
+		"xpos"			"130"
+	}
+
 	"ItemEffectMeterBG"
 	{
 		"ControlName"	"CTFImagePanel"

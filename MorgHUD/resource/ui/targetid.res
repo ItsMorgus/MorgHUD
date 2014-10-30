@@ -119,8 +119,8 @@
 		"ypos"			"10"
 		"wide"			"64"
 		"tall"			"25"
-		"visible"		"1"
-		"enabled"		"1"	
+		"visible"		"0"
+		"enabled"		"0"	
 		"HealthBonusPosAdj"	"10"
 		"HealthDeathWarning"	"0.49"
 		"TFFont"		"HudFontSmall"
@@ -132,7 +132,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"AmmoIcon"
-		"xpos"			"55"
+		"xpos"			"75"
 		"ypos"			"18"
 		"zpos"			"12"
 		"wide"			"8"
@@ -147,7 +147,7 @@
 	{
 		"ControlName"  "ImagePanel"
 		"fieldName"    "KillStreakIcon"
-		"xpos"      "55"
+		"xpos"      "12"
 		"ypos"      "17"
 		"zpos"      "12"
 		"wide"      "10"
