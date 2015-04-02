@@ -29,9 +29,9 @@
 	}
 	"TargetIDBG_Spec_Blue"
 	{
-		"ControlName"		"ScalableImagePanel"
+		"ControlName"		"ImagePanel"
 		"fieldName"		"TargetIDBG_Spec_Blue"
-		"xpos"			"0"
+		"xpos"			"10"
 		"ypos"			"29"
 		"zpos"			"-1"
 		"wide"			"252"
@@ -40,20 +40,15 @@
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"1"
-		"image"			"../hud/color_panel_blu"
-		"image_lodef"	"../hud/color_panel_blu"
-		
-		"src_corner_height"		"23"				// pixels inside the image
-		"src_corner_width"		"23"
-			
-		"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"0"
+		"tabPosition"	"0"
+		"fillcolor"		"MorgHUDBlue"
+		"PaintBackgroundType"	"0"
 	}
 	"TargetIDBG_Spec_Red"
 	{
-		"ControlName"		"ScalableImagePanel"
+		"ControlName"		"ImagePanel"
 		"fieldName"		"TargetIDBG_Spec_Red"
-		"xpos"			"0"
+		"xpos"			"10"
 		"ypos"			"29"
 		"zpos"			"-1"
 		"wide"			"252"
@@ -62,14 +57,9 @@
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"1"
-		"image"			"../hud/color_panel_red"
-		"image_lodef"	"../hud/color_panel_red"
-		
-		"src_corner_height"		"23"				// pixels inside the image
-		"src_corner_width"		"23"
-			
-		"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"0"
+		"tabPosition"	"0"
+		"fillcolor"		"MorgHUDRed"
+		"PaintBackgroundType"	"0"
 	}
 	
 	"TargetNameLabel"
@@ -78,7 +68,7 @@
 		"fieldName"		"TargetNameLabel"
 		"font"			"Roboto11Shadow"
 		"xpos"			"55"
-		"ypos"			"10"
+		"ypos"			"3"
 		"zpos"			"1"
 		"wide"			"640"
 		"tall"			"24"
@@ -87,7 +77,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%targetname%"
-		"textAlignment"		"North-West"
+		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
 	}
@@ -107,7 +97,7 @@
 		"enabled"		"1"
 		"fgcolor_override"		"0 255 0 255"
 		"labelText"		"%targetdata%"
-		"textAlignment"		"Left"
+		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
 	}
@@ -115,7 +105,7 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldName"		"SpectatorGUIHealth"
-		"xpos"			"0"
+		"xpos"			"20"
 		"ypos"			"10"
 		"wide"			"64"
 		"tall"			"25"
@@ -147,7 +137,7 @@
 	{
 		"ControlName"  "ImagePanel"
 		"fieldName"    "KillStreakIcon"
-		"xpos"      "12"
+		"xpos"      "73"
 		"ypos"      "17"
 		"zpos"      "12"
 		"wide"      "10"
