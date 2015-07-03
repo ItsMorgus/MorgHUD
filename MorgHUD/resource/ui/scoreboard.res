@@ -13,14 +13,18 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"0"
+		"medal_width"		"15"
 		"avatar_width"		"57"
-		"name_width"		"139"
-		"name_width_minmode""90"		
+		"name_width"		"137"
+		"name_width_short"	"116"
+		"name_width_minmode""87"		
 		"status_width"		"1"
 		"nemesis_width"		"15"
 		"class_width"		"15"
 		"score_width"		"25"
 		"ping_width"		"24"
+		"stats_width"		"30"
+		"killstreak_width"	"20"
 	}
 	"BlueScoreBG"
 	{
@@ -294,6 +298,7 @@
 		"autoresize"	"3"
 		"linespacing"	"13"
 		"fgcolor"		"blue"
+		//"show_columns"	"1"
 		
 		if_mvm
 		{
@@ -318,6 +323,7 @@
 		"autoresize"	"3"
 		"linespacing"	"13"
 		"textcolor"		"red"
+		//"show_columns"	"1"
 		
  		if_mvm
  		{
