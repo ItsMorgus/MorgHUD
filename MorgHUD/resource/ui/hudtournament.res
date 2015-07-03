@@ -232,7 +232,6 @@
 					"visible"		"1"
 				}
 			}
-			}
 			
 			"respawntime"
 			{
