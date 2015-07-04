@@ -89,7 +89,7 @@
 		"enabled"		"1"
 		"labelText"		"8"
 		"textAlignment"	"Center"
-		"dulltext"		"0"
+		"dulltext"		"1"
 		"brighttext"	"0"
 	}
 }

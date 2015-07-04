@@ -297,6 +297,18 @@
 				"wide"		"55"
 				"tall"		"35"
 			}
+						
+			if_competitive
+			{
+				"wide"		"55"
+				"tall"		"35"
+			}
+
+			if_readymode
+			{
+				"wide"		"55"
+				"tall"		"35"
+			}
 		}
 		
 		if_mvm
@@ -309,7 +321,7 @@
 			"team1_player_base_y"			"66"
 			"team2_player_base_y"			"66"
 			"team2_player_delta_x"			"52"
-		}		
+		}
 		
 		if_competitive
 		{
@@ -362,7 +374,7 @@
 		if_mvm
 		{
 			"visible"		"0"
-		}	
+		}
 		
 		if_competitive
 		{

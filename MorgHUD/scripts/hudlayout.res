@@ -67,8 +67,8 @@
 	{
 		"controlName"	"CExLabel"
 		"fieldName"	 	"CrossHairKonrDot"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"zpos"			"2"
 
 		"xpos"			"c-6"
@@ -87,8 +87,8 @@
 	{
 		"controlName"	"CExLabel"
 		"fieldName"	 	"CrossHairKonrWings"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"zpos"			"2"
 
 		"xpos"			"c-39"
@@ -1139,18 +1139,6 @@
 		"wide"					"404"
 		"tall"					"218"
 	}
-	"CTFKillStreakNotice"
-	{
-		"fieldName"    "CTFKillStreakNotice"
-		"xpos"      "0"      
-		"ypos"      "0"
-		"wide"      "640"
-		"tall"      "480"
-		"visible"    "1"
-		"enabled"    "1"
-		"bgcolor_override"  "0 0 0 0"
-		"PaintBackgroundType"  "0" // rounded corners
-	}
 	
 	PVEWinPanel
 	{
@@ -1270,7 +1258,7 @@
 		"tall"			"200"
 		"PaintBackgroundType"	"0"
 	}
-	
+
 	"HudEurekaEffectTeleportMenu"
 	{
 		"fieldName" 	"HudEurekaEffectTeleportMenu"
@@ -1659,7 +1647,18 @@
 		"tall"			"200"
 		"PaintBackgroundType"	"0"
 	}
-	
+
+	"ItemAttributeTracker"
+	{
+		"fieldName" 	"ItemAttributeTracker"
+		"visible" 		"1"
+		"enabled" 		"1"
+		"xpos"			"0"
+		"ypos"			"0"
+		"wide"			"f5"
+		"tall"			"f0"
+		"PaintBackgroundType"	"0"
+	}
 
 	HudMiniGame
 	{

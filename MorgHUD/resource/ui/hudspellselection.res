@@ -5,6 +5,12 @@
 		"xpos"			"130"
 	}
 
+		"if_killstreak_visible"
+		{
+			"xpos"			"130"
+		}
+	}
+			
 	"ItemEffectMeterBG"
 	{
 		"ControlName"	"CTFImagePanel"
