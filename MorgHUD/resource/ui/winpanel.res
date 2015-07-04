@@ -361,7 +361,7 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"Player1Medal"
-		"xpos"			"6"
+		"xpos"			"5"
 		"ypos"			"59"
 		"zpos"			"3"
 		"wide"			"12"
@@ -444,7 +444,7 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"Player2Medal"
-		"xpos"			"6"
+		"xpos"			"5"
 		"ypos"			"81"
 		"zpos"			"3"
 		"wide"			"12"
@@ -527,7 +527,7 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"Player3Medal"
-		"xpos"			"6"
+		"xpos"			"5"
 		"ypos"			"180"
 		"zpos"			"3"
 		"wide"			"12"
@@ -683,7 +683,7 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"KillStreakPlayer1Medal"
-		"xpos"			"6"
+		"xpos"			"5"
 		"ypos"			"141"
 		"zpos"			"3"
 		"wide"			"12"
