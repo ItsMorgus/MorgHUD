@@ -67,8 +67,8 @@
 	{
 		"controlName"	"CExLabel"
 		"fieldName"	 	"CrossHairKonrDot"
-		"visible"		"0"
-		"enabled"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"zpos"			"2"
 
 		"xpos"			"c-6"
@@ -87,8 +87,8 @@
 	{
 		"controlName"	"CExLabel"
 		"fieldName"	 	"CrossHairKonrWings"
-		"visible"		"0"
-		"enabled"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"zpos"			"2"
 
 		"xpos"			"c-39"
@@ -1190,10 +1190,10 @@
 		"fieldName"				"FreezePanelCallout"
 		"visible"				"1"
 		"enabled"				"1"
-		"xpos"					"0"
-		"ypos"					"0"
-		"wide"					"f0"
-		"tall"					"480"
+		"xpos"					"200"
+		"ypos"					"200"
+		"wide"					"100"
+		"tall"					"50"
 	}
 
 	AnnotationsPanelCallout
@@ -1487,7 +1487,7 @@
 		"NormalY"		"10"
 		"EngineerY"		"176"
 		"zpos"			"2"
-		"wide"			"200"
+		"wide"			"280"
 		"tall"			"280"
 		"visible"		"1"
 		"enabled"		"1"	
@@ -1623,9 +1623,9 @@
 		"tall"			"150"
 	}
 	
-	"CTFKillStreakNotice"
+	"CTFStreakNotice"
 	{
-		"fieldName"		"CTFKillStreakNotice"
+		"fieldName"		"CTFStreakNotice"
 		"xpos"			"0"			
 		"ypos"			"0"
 		"wide"			"640"
@@ -1634,6 +1634,18 @@
 		"enabled"		"1"
 		"bgcolor_override"	"0 0 0 0"
 		"PaintBackgroundType"	"0" // rounded corners
+	}
+
+	CTFFlagCalloutPanel
+	{
+		"fieldName"		"CTFFlagCalloutPanel"
+		"visible" 		"0"
+		"enabled" 		"1"
+		"xpos"			"0"
+		"ypos"			"0"
+		"wide"	 		"40"
+		"tall"	 		"40"
+		"priority"		"40"
 	}
 
 	"HudMenuTauntSelection"
@@ -1658,5 +1670,28 @@
 		"ypos"	"0"
 		"wide"	"f0"
 		"tall"	"480"
+	}
+
+	"QuestNotificationPanel"
+	{
+		"fieldName"	"QuestNotificationPanel"
+		"visible" "1"
+		"enabled" "1"
+		"xpos"	"0"
+		"ypos"	"0"
+		"wide"	"f0"
+		"tall"	"f0"
+	}
+
+	"QuestLogContainer"
+	{
+		"ControlName"		"EditablePanel"
+		"fieldName" 		"QuestLogContainer"
+		"visible" 		"1"
+		"enabled" 		"1"
+		"xpos"			"0"
+		"ypos"			"0"
+		"wide"	 		"f0"
+		"tall"	 		"f0"
 	}
 }
