@@ -3,7 +3,6 @@
 	HudSpellMenu
 	{
 		"xpos"			"130"
-	}
 
 		"if_killstreak_visible"
 		{
