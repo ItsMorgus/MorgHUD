@@ -27,7 +27,7 @@
 		"labelText"		"%metal%"
 		"delta_lifetime"		"10.0"
 		"textAlignment"	"west"
-		"fgcolor"		"255 255 255 180"
-		"font"			"Gunplay18Shadow"
+		"fgcolor"		"MorgHUDDamageNumbers"	// 255 255 255 180
+		"font"			"Gunplay18Outline"	// Gunplay18Shadow
 	}
 }
