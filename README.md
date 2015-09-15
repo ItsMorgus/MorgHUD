@@ -36,3 +36,5 @@ Thanks
   -Wiethoofd for being the bestest.
 
   -And last but not least, thanks to all the other HUD editors out there.
+
+  -omni for fixing backpack icons on notoHUD
