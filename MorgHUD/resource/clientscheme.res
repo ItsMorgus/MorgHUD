@@ -30,6 +30,7 @@ Scheme
 		"ColorMenuDefault"			"235 226 202 255"
 		"ColorMenuArmed"			"0 175 255 255"
 		
+		"MorgHUDFlushOrange"		"255 128 0 255"
 		"MorgHUDOrange"				"255 87 34 255"
 		"MorgHUDBlue"				"3 169 244 255"
 		"MorgHUDWhite"				"235 226 202 255"

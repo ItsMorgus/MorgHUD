@@ -195,15 +195,15 @@
 		"image"			"../hud/objectives_timepanel_suddendeath"	
 		"scaleImage"		"1"	
 	}	
-		"ServerTimeLimitLabel"
+	"ServerTimeLimitLabel"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ServerTimeLimitLabel"
 		"xpos"			"0"
-		"ypos"			"33"
+		"ypos"			"10"
 		"zpos"			"5"
 		"wide"			"152"
-		"tall"			"19"
+		"tall"			"31"
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%servertimeleft%"
@@ -211,7 +211,7 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"			"0"
-		"font"			"Roboto11Shadow"
+		"font"			"Gunplay24Shadow"
 	}	
 	"ServerTimeLimitLabelBG"
 	{
