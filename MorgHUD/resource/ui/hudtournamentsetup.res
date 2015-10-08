@@ -20,7 +20,7 @@
 		"src_corner_width"	"23"
 		
 		"draw_corner_width"	"8"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"8"	
+		"draw_corner_height" 	"8"
 	}
 
 	"TournamentSetupLabel"
@@ -84,7 +84,7 @@
 		"textAlignment"		"west"
 	}
 
-		"NameBG"
+	"NameBG"
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"NameBG"
