@@ -203,10 +203,6 @@
 		{
 			"image"		"../console/title_eotl01"
 		}
-		if_operation
-		{
-			"image"		"../console/title_summer_operation_2015"
-		}
 	}
 					
 	"TFLogoImage"
@@ -921,7 +917,7 @@
 			"wide"			"280"
 			"tall"			"115"
 			"PaintBackgroundType"	"2"
-			"fgcolor_override"	"117 107 94 255"
+			"fgcolor_override"	"LabelDark"
 			
 			"MOTD_TextPanel"
 			{
