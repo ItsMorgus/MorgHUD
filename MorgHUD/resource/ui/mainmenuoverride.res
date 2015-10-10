@@ -1175,7 +1175,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override"	"235 226 202 255"
+			"fgcolor_override"	"ColorMenuDefault"
 			"wrap"			"1"
 		}
 		
