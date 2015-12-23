@@ -85,7 +85,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TargetDataLabel"
-		"font"			"Roboto10"
+		"font"			"Roboto11Shadow"
 		"xpos"			"55"
 		"ypos"			"15"
 		"zpos"			"1"
